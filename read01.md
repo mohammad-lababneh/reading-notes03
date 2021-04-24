@@ -12,13 +12,8 @@ How to add comments to your code , If you want to add a comment to your code tha
 How to add a page and control with width and hight.
 Global attributes, which are attributes that can be used on any element, including the class and id attributes.
 
-
-
-
 ## chapter 17 
 **HTMLs layout**
-
-
 The new HTML5 elements indicate the purpose of
 different parts of a web page and help to describe
 its structure.
