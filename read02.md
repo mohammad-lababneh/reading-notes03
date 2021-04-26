@@ -114,3 +114,19 @@ them inside a **style** element, which usually sits inside the
 
 # js 
 ## capter 2 
+
+#### COMMENTS
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read
+ your code using // or /*.
+
+ #### WHAT IS A VARIABLE?
+ A script will have to temporarily store the bits of information it needs to do its job. It can store this
+data in variables.
+you can declear variables using var command,  and you can assign ther command by using = .
+USING A VARIABLE TO STORE A STRING by using '' & "".
+
+
+
+
