@@ -13,9 +13,9 @@ Each head deferant on size and importance.
 
 
 ### Paragraphs <p>
-can use command **<p>** to write a paragraphs.
+can use command *p* to write a paragraphs.
 
-### Bold & It alic <b> <i>
+### Bold & Italic <b> <i>
 
 you can use these commands <b> & <i> to make bold to a text, and make it italic. 
 By enclosing words in the tags <i> and </i> we can make characters appear italic.
@@ -23,33 +23,33 @@ By enclosing words in the tags <b> and </b> we can make
 characters appear bold.
 
 ### Superscript & Subscript
-The <sup> element is used to contain characters that
+The **sup** element is used to contain characters that
 should be superscript such as the suffixes of dates or
 mathematical concepts like raising a number to a power .
 
 
-### Line Breaks & Horizontal Rules
+### Line Breaks br & Horizontal Rules hr
 <br />
  the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag <br />.
 <hr />
-To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the <hr /> tag.
+To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the tag.<hr /> 
 
 ### Strong & Emphasis
 <strong>
-The use of the <strong> element indicates that its
+The use of the strong element indicates that its
 content has strong importance. For example, the words contained in this element might be said with strong emphasis.
-By default, browsers will show the contents of a <strong>
+By default, browsers will show the contents of a strong
 element in bold.
 
-<em>
-The <em> element indicates emphasis that subtly changes
+##### em
+The **em** element indicates emphasis that subtly changes
 the meaning of a sentence. By default browsers will show
-the contents of an <em> element in italic.
+the contents of an **em** element in italic.
 
 
 ### Quotations
 <blockquote>
-The <blockquote> element is used for longer quotes that take
+The **blockquote** element is used for longer quotes that take
 up an entire paragraph. Note how the <p> element is still
 used inside the <blockquote> element.
 Browsers tend to indent the contents of the <blockquote>
