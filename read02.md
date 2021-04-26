@@ -44,44 +44,44 @@ element in bold.
 ##### em
 The **em** element indicates emphasis that subtly changes
 the meaning of a sentence. By default browsers will show
-the contents of an '</em>' element in italic.
+the contents of an 'em' element in italic.
 
 
 ### Quotations
 <blockquote>
 The **blockquote** element is used for longer quotes that take
-up an entire paragraph. Note how the <p> element is still
-used inside the <blockquote> element.
-Browsers tend to indent the contents of the <blockquote>
-element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
+up an entire paragraph. Note how the **p** element is still
+used inside the **blockquote** element.
+Browsers tend to indent the contents of the **blockquote**
+element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.</blockquote>
 
 <q>
-The <q> element is used for shorter quotes that sit within
+The  q  element is used for shorter quotes that sit within
 a paragraph. Browsers are supposed to put quotes around
-the <q> element, however Internet Explorer does not —
-therefore many people avoid using the <q> element.
+the  q  element, however Internet Explorer does not —
+therefore many people avoid using the  q  element.
 Both elements may use the cite attribute to indicate where the
 quote is from. Its value should be a URL that will have more
-information about the source of the quotation.
+information about the source of the quotation.</q>
 
 
 ### Abbreviations & Acronyms
 
-If you use an abbreviation or an acronym, then the <abbr>
+If you use an abbreviation or an acronym, then the **abbr**
 element can be used. A title attribute on the opening tag is
 used to specify the full term.
 
 
 ### Auth or Details
-<address>
-The <address> element has quite a specific use: to contain
+<address>Auth or Details</address>
+The **address** element has quite a specific use: to contain
 contact details for the author of the page.
 
 ### Changes to Content
-The <ins> element can be used to show content that has been
-inserted into a document, while the <del> element can show text that has been deleted from it.
+The **ins**  element can be used to show content that has been
+inserted into a document, while the **del** element can show text that has been deleted from it.
 
-The <s> element indicates something that is no longer
+The **s** element indicates something that is no longer
 accurate or relevant (but that should not be deleted).
 
 ## chapter 10 css 
@@ -98,7 +98,7 @@ the selector should be styled. Declarations are split into two
 parts (a property and a value), and are separated by a colon.
 
 ### Using External CSS
-The <link> element can be used in an HTML document to tell the
+The **link** element can be used in an HTML document to tell the
 browser where to find the CSS file used to style the page.
 
 **href** This specifies the path to the
@@ -108,7 +108,7 @@ CSS file (which is often placed in a folder called css orstyles).
 
 ### Usi ng Internal CSS
 You can also include CSS rules within an HTML page by placing
-them inside a <style> element, which usually sits inside the
+them inside a **style** element, which usually sits inside the
 <head> element of the page.
 
 
