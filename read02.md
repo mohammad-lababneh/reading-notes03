@@ -2,18 +2,18 @@
 ## Capter 2
 ### Headings
 
-**<h1>**
-**<h2>**
-**<h3>**
-**<h4>**
-**<h5>**
-**<h6>**
+**h1**
+**h2**
+**h3**
+**h4**
+**h5**
+**h6**
 this heading you can use it to make a titles.
 Each head deferant on size and importance.
 
 
 ### Paragraphs <p>
-can use command <p> to write a paragraphs.
+can use command "<p>" to write a paragraphs.
 
 ### Bold & It alic <b> <i>
 
