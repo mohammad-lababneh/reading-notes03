@@ -13,7 +13,7 @@ Each head deferant on size and importance.
 
 
 ### Paragraphs <p>
-can use command "<p>" to write a paragraphs.
+can use command **<p>** to write a paragraphs.
 
 ### Bold & It alic <b> <i>
 
