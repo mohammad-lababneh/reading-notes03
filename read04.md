@@ -12,7 +12,7 @@ Article: “6 Reasons for Pair Programming” -->
 
 # chapter 4 links 
  **creating inks between pages**
- **Linking to other sites**
- **Email links**
+ *Linking to other sites*
+ ***Email links***
  
  
