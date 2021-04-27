@@ -12,8 +12,10 @@ Article: “6 Reasons for Pair Programming” -->
 
 # chapter 4 links 
 
- ###### creating inks between pages
- ###### Linking to other sites 
- ###### Email links 
+ ##### creating inks between pages
+ ##### Linking to other sites 
+ ##### Email links 
  
- 
+ ## Writing Links
+ Links are created using the` <a>` element. Users can click on anything between the opening `<a> `tag and the closing
+ ` </a>` tag. You specify which page you want to link to using the href attribute.
