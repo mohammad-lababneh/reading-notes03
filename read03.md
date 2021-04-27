@@ -34,9 +34,35 @@ height: 75%; width: 75%;
 background-color: #0088dd;} 
 
 ###### Border Width
-<p class="one">The border-width property is used to control the width
+The border-width property is used to control the width
 of a border. The value of this property can either be given
-in pixels or using one of the following values:</p>
+in pixels or using one of the following values:
 
-using this commands
-```<p class="one"> </p>```
+using these commands
+``` <p class="one"> </p>```
+```<p class="two"> </p>```
+```<p class="three"> </p> ..... to eight ```
+*** css ***
+to git a style
+p.one {border-style: solid;}
+p.two {border-style: dotted;}
+p.three {border-style: dashed;}
+p.four {border-style: double;}
+p.five {border-style: groove;}
+p.six {border-style: ridge;}
+p.seven {border-style: inset;}
+p.eight {border-style: outset;}
+
+ ###### Border Color
+  ```p.one {```
+```border-color: #0088dd;}```
+```p.two {border-color: #bbbbaa #111111 #ee3e80 #0088dd;} ```
+ using this command you can choose any color
+
+ #### notes 
+ CSS treats each HTML e XX lement as if it has its own box.
+XX You can use CSS to control the dimensions of a box.
+It is possible to hide elements using the display and
+visibility properties.
+CSS3 has introduced the ability to create image
+borders and rounded borders.
