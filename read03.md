@@ -26,9 +26,17 @@ Ordered lists use numbers.
 Unordered lists use bullets.
 
 ## ch13 Boxes 
-using this command ```  div.box { height: 300px;```
+using this command you can creat a boxe with any color ```  div.box { height: 300px;```
 width: 300px;
 background-color: #bbbbaa;}
 p {
 height: 75%; width: 75%;
-background-color: #0088dd;} ```
+background-color: #0088dd;} 
+
+###### Border Width
+<p class="one">The border-width property is used to control the width
+of a border. The value of this property can either be given
+in pixels or using one of the following values:</p>
+
+using this commands
+```<p class="one"> </p>```
