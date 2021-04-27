@@ -228,3 +228,68 @@ containing box. The floated
 element becomes a block-level
 element around which other
 content can flow.
+
+
+
+# JAVASCRIPT
+
+## CHAPTER 3 FUNCTIONS, METHODS & OBJECTS
+
+
+##### WHAT IS A FUNCTION?
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+
+#### DECLEARING A FUNCTION 
+ using a ` function ` keyword : ` function hello(){
+     code block
+ }
+ where the world ` hello ` is the function name .
+
+ #### calling a function 
+ you can call a function by writing its name ex : hello().
+
+#### deaclearing function that need information
+when you decleared a function you give it parameters. inside the function the parameter act like variables. to call this function you spacify the value it should use in the parenthesesthat follow its name.
+
+#### calling a function that need informations 
+ you can call a function by writing its name and the value ex : hello(3,5).
+
+ #### gitting a single value out of a function 
+ you can do it by using ` return ` command.
+
+##### ANONYMOUS FUNCTIONS & FUNCTION EXPRESSIONS
+Expressions produce a value. They can be used where values are expected. If a function is placed where a browser expects to see an expression,
+
+
+#### IMMEDIATELY INVOKED FUNCTION EXPRESSIONS
+This way of writing a function is used in several different situations. Often functions are used to ensure that the variable names do not conflict with each other (especially if the page uses more than one script).
+
+
+#### VARIABLE SCOPE 
+The location where you declare a variable will affect where it can be used within your code. If you declare it within a function, it can only be used within that function. This is known as the variable's scope.
+
+
+
+# 6 Reasons for Pair Programming
+
+Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce. What if you can could get all of this, instantaneously, while typing code line by line and character by character? You can, with pair programming, a technique common to many agile work environments.
+
+#### How does pair programming work?
+
+While there are many different styles, pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code
+
+
+####  Work environment readiness
+Many companies that utilize pair programing expect to train fresh hires from CS-degree programs on how they operate to actually deliver a product. Code Fellows graduates who are already familiar with how pairing works can hit the ground running at a new job, with one less hurdle to overcome.
+
+
+
+
+
+
+
+
+
+
+
+
